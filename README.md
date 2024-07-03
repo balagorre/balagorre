@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Bala Gorre
 
 Welcome to my GitHub profile! I'm an experienced IT Strategy, Data Architecture, and Project Management professional with a strong background in financial institutions. Here’s a bit about me and what I do:
 
