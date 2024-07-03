@@ -33,9 +33,9 @@ Welcome to my GitHub profile! I'm an experienced IT Strategy, Data Architecture,
 
 ## Let's Connect!
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
-- 🐦 [Twitter](https://twitter.com/your-twitter-handle)
-- 📧 [Email](mailto:your-email@example.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/balagorre)
+- 🐦 [Twitter](https://twitter.com/balu_gorre)
+- 📧 [Email](mailto:bala.goerre@egmail.com)
 
 Feel free to explore my repositories and reach out if you’d like to collaborate or just chat about tech, AI, and everything in between!
 
